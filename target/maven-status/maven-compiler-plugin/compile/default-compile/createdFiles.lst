@@ -1,0 +1,11 @@
+com\insight\anomalyDetection\StreamProcessor.class
+com\insight\anomalyDetection\util\JsonBinder$1.class
+com\insight\anomalyDetection\util\UserOperations.class
+com\insight\anomalyDetection\StreamProcessor$1.class
+com\insight\anomalyDetection\util\Printer.class
+com\insight\anomalyDetection\model\EventType.class
+com\insight\anomalyDetection\model\Anomaly.class
+com\insight\anomalyDetection\model\User.class
+com\insight\anomalyDetection\model\PurchaseRecord.class
+com\insight\anomalyDetection\util\JsonBinder.class
+com\insight\anomalyDetection\util\IdGenerator.class
